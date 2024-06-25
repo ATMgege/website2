@@ -1,0 +1,190 @@
+@font-face {
+  font-family: 'comic';
+  src: url('../fonts/comic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'comicbd';
+  src: url('../fonts/comicbd.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SoulSeashell';
+  src: url('../fonts/SoulSeashell.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.layui-container{
+  width: 1200px;
+  min-width: 1200px;
+}
+
+.box1{
+  margin-top: 20px;
+}
+
+.box1 .fl img{
+  width: 100px;
+  height: 100px;
+}
+
+.box1 .fr .img1{
+  width: auto;
+  height: 35px;
+}
+
+.box1 .fr .btn{
+  width: auto;
+  height: 51px;
+  border-radius: 25px;
+  border: 1px solid #1C1515;
+  margin-left: 15px;
+  padding: 0 5px;
+}
+
+.box1 .fr .btn a+a{
+  margin-left: 5px;
+}
+
+.box1 .fr .btn .img2{
+  width: auto;
+  height: 34px;
+}
+
+.box2 p{
+  text-align: center;
+}
+
+.box2 p .sp1{
+  font-size: 100px;
+  color: #000000;
+  margin-right: 30px;
+  font-weight: bold;
+}
+
+.box2 p .sp2{
+  font-size: 169px;
+  color: #000000;
+  font-family: 'SoulSeashell';
+}
+
+.box3{
+  margin-top: -350px;
+}
+
+.box3 img{
+  width: 100%;
+  height: 1196px;
+  min-width: 1200px;
+}
+
+.box4{
+  margin-top: -50px;
+}
+
+.box4 .btn{
+  width: 1200px;
+  height: 153px;
+  background: url(../images/t7.png) no-repeat center;
+  background-size: 100% 100%;
+  
+}
+
+.box4 .btn p{
+  font-family: 'SoulSeashell';
+  font-weight: 400;
+  font-size: 47px;
+  color: #000000;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+.box4 .btn img{
+  width: auto;
+  height: 80px;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+
+.box5{
+  margin-top: 150px;
+}
+
+.box5 h1{
+  font-size: 132px;
+  color: #000000;
+  font-family: 'SoulSeashell';
+  text-align: center;
+}
+
+.box5 p{
+  font-size: 23px;
+  color: #000000;
+  font-family: 'comic';
+  line-height: 36px;
+  text-align: center;
+}
+
+.box6{
+  margin-top: 80px;
+}
+
+.box6 img{
+  width: 1200px;
+  height: auto;
+}
+
+.box7{
+  margin-top: 100px;
+}
+
+.box7 p{
+  font-size: 132px;
+  color: #000000;
+  font-family: 'SoulSeashell';
+  text-align: center;
+}
+
+.box8{
+  text-align: center;
+}
+
+.box8 img{
+  width: 100px;
+  height: 100px;
+}
+
+.box9{
+  margin-top: 20px;
+  text-align: center;
+}
+
+.box9 p{
+  font-size: 25px;
+  color: #000000;
+  line-height: 40px;
+  font-family: 'comic';
+}
+
+.box10{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.box10 img{
+  width: auto;
+  height: 75px;
+}
+
+.box10 a+a{
+  margin-left: 20px;
+}
