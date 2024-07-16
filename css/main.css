@@ -65,14 +65,14 @@
 
 .box2 p .sp1{
   font-size: 100px;
-  color: #000000;
+  color: #ffffff;
   margin-right: 30px;
   font-weight: bold;
 }
 
 .box2 p .sp2{
   font-size: 169px;
-  color: #000000;
+  color: #ffffff;
   font-family: 'SoulSeashell';
 }
 
@@ -87,7 +87,7 @@
 }
 
 .box4{
-  margin-top: -50px;
+  margin-top: -130px;
 }
 
 .box4 .btn{
@@ -120,14 +120,14 @@
 
 .box5 h1{
   font-size: 132px;
-  color: #000000;
+  color: #ffffff;
   font-family: 'SoulSeashell';
   text-align: center;
 }
 
 .box5 p{
   font-size: 23px;
-  color: #000000;
+  color: #ffffff;
   font-family: 'comic';
   line-height: 36px;
   text-align: center;
@@ -148,7 +148,7 @@
 
 .box7 p{
   font-size: 132px;
-  color: #000000;
+  color: #ffffff;
   font-family: 'SoulSeashell';
   text-align: center;
 }
@@ -169,7 +169,7 @@
 
 .box9 p{
   font-size: 25px;
-  color: #000000;
+  color: #ffffff;
   line-height: 40px;
   font-family: 'comic';
 }
@@ -187,4 +187,8 @@
 
 .box10 a+a{
   margin-left: 20px;
+}
+
+body{
+  background-color: #2E77BC;
 }
